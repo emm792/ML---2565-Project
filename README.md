@@ -5,8 +5,6 @@ This Repository contains additional improvements and attempts over the paper, we
 
 Suggested **hparams.py** file which is default in use, contains the hyperparameters with extras that proved to provide better results in most cases. Feel free to toy with the parameters as needed.
 
-DIFFERENCES WILL BE HIGHLIGHTED IN DOCUMENTATION SHORTLY.
-
 
 # Repository Structure:
 	Tacotron-2
@@ -86,7 +84,7 @@ Note:
 - If you run training of both **models at the same time**, repository structure will be different.
 
 # Pretrained model and Samples:
-Pre-trained models and audio samples will be added at a later date. You can however check some primary insights of the model performance (at early stages of training) [here](https://github.com/Rayhane-mamah/Tacotron-2/issues/4#issuecomment-378741465). THIS IS VERY OUTDATED, I WILL UPDATE THIS SOON
+Pre-trained models and audio samples will be added at a later date. You can however check some primary insights of the model performance (at early stages of training) [here](https://github.com/Rayhane-mamah/Tacotron-2/issues/4#issuecomment-378741465).
 
 # Model Architecture:
 <p align="center">
